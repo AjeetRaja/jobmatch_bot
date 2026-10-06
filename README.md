@@ -38,7 +38,7 @@ Ranked Job Results
 ## Setup
 
 ```bash
-git clone https://github.com/thalaai/jobmatch-bot.git
+git clone https://github.com/AjeetRaja/jobmatch_bot.git
 cd jobmatch-bot
 deactivate 2>/dev/null
 hash -r
